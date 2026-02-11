@@ -34,7 +34,7 @@ This is a User Management web application built with Spring Boot. It allows you 
 1. Clone the repository:
 
    ```bash
-   git clone git@github.com:roshni73/SpringBoot_UserManagement.git
+   git clone https://github.com/bhavya-rashmi/spring-boot-user-management.git
     ```
 2. Create a MySQL database named `UserManagementDb` (or whatever you want to name it).
 3. Create a file named `application.properties` in the `src/main/resources` directory.
