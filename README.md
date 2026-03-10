@@ -4,6 +4,20 @@
 
 This is a User Management web application built with Spring Boot. It allows you to manage user accounts, including registration, authentication, and basic profile management.
 
+## Screenshots
+
+### Login Page
+![Login Page](login.png)
+
+### Registration Page
+![Registration Page](Registration.png)
+
+### Admin Users List
+![Admins List](AdminsList.png)
+
+### Add User Page
+![Add User](addUsers.png)
+
 ## Features
 
 - **User Registration**: Users can sign up for an account.
