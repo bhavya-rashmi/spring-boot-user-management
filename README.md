@@ -26,14 +26,21 @@ This is a User Management web application built with Spring Boot. It allows you 
 - **User Listing**: Admins can view a list of all users.
 - **User Roles**: Different user roles (e.g., admin, regular user) with appropriate permissions.
 
-## Technologies
+## Tech Stack
 
-- **Spring Boot**: Application framework
-- **Spring Security**: Authentication and access-control framework
-- **Spring Data JPA**: Database access framework
-- **MySQL**: Database
-- **Thymeleaf**: Template engine
-- **Bootstrap**: CSS framework
+Backend
+- Java
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+
+Frontend
+- Thymeleaf
+- HTML
+- Bootstrap
+
+Database
+- MySQL
 
 ## Getting Started
 
